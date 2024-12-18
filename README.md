@@ -1,5 +1,26 @@
-# 💫 About Me:
-I am currently working on hybrid app development (Flutter)<br><br>I am a self taught full stack developer experience in dart, pyhon,  html, C, C++<br>I have total experience of 3 years including Flutter and others.
+# Hi, I'm Abubakar 👋  
+**Sr. Full Stack Flutter Developer 🚀**
+
+## Technologies I Work With
+- **Backend:** Firebase, SQL
+- **Frontend:** Flutter, FlutterFlow, Android 📲
+
+## What I Offer
+- **Backend Development:** Creating RESTful APIs, microservices, and server-side applications with a focus on performance and security.
+- **Frontend Development:** Building responsive and dynamic user interfaces with Flutter, FlutterFlow, and Android.
+- **Database Management:** Designing and managing SQL and NoSQL databases to ensure data integrity and optimized query performance.
+- **Full Stack Solutions:** Integrating frontend and backend components to develop cohesive and user-friendly web applications and cross-platform applications.
+
+## My Approach
+- **Problem Solving:** Tackling complex problems and finding effective solutions that meet user needs and business goals.
+- **Continuous Learning:** Staying updated with the latest trends and best practices in web development to deliver cutting-edge solutions.
+- **Collaboration:** Working closely with clients and team members to ensure successful project outcomes.
+
+## Get in Touch
+Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on a project. Let's build something amazing together!
+
+- **Email:** [abubakarmentor786@gmail.com]
+
 
 
 ## 🌐 Socials:
